@@ -1,8 +1,8 @@
 # Bot
 BOT WHATSAPP TERMUX BYE:dev java Studios
 
-### Alat dan Bahan
-Siapin alat dan bahannya.
+### Ferramentas e Materiais
+Prepare as ferramentas e materiais.
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)

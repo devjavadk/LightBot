@@ -1,13 +1,13 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 
-_Spesial Thanks To:_
-Nurotomo
+Agradecimentos especiais para:_
+Dev java Studios Gabriel
 
 _Rec Bye:_
-Drawl Nag
+Dev Java Studios
 
-Owner: wa.me.+5511946817667
+Owner: wa.me//5511946817667
 
 *🎥 YouTube:* 
 https://youtube.com/channel/UCE7x81dLhF0BQSDLSqCUjBQ

@@ -1,4 +1,4 @@
-# Bot Naga
+# Bot
 BOT WHATSAPP TERMUX BYE:dev java Studios
 
 ### Alat dan Bahan

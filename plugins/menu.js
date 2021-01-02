@@ -7,7 +7,7 @@ Dev java Studios Gabriel
 _Rec Bye:_
 Dev Java Studios
 
-Owner: wa.me//5511946817667
+Proprietário: wa.me//5511946817667
 
 *🎥 YouTube:* 
 https://youtube.com/channel/UCE7x81dLhF0BQSDLSqCUjBQ
@@ -15,8 +15,8 @@ https://youtube.com/channel/UCE7x81dLhF0BQSDLSqCUjBQ
 *Instagram:*
 https://Instagram.com/devjavastudios
 
-➸ Prefix:  *「 ${_p} 」*
-➸ Status: *「 Online 」*
+➸ Prefixo:  *「 ${_p} 」*
+➸ Status: *「 Conectado 」*
 
 *「 COMANDO 」*
 ${_p}menu
@@ -26,6 +26,7 @@ ${_p}qr <teks>
 ${_p}stiker (foto)
 ${_p}bucin
 ${_p}ss (website)
+*✨Entre no grupo do LightBot Para Saber Das novidades do bot!✨*
 
 *「 GRUPO 」*
 ${_p}add (Número)

@@ -1,7 +1,7 @@
 let qrcode = require("qrcode")
 
 let handler  = async (m, { conn, args }) => {
-  conn.sendFile(m.chat, await qrcode.toDataURL(args.join(' '), { scale: 8 }), 'qrcode.png', '¯\\_(ツ)_/¯', m)
+  conn.sendFile(m.chat, await qrcode.toDataURL(args.join(' '), { scale: 8 }), 'qrcode.png', 'Aqui Esta Seu QR-CODE✨', m)
 }
 handler.command = /^qr(code)?$/i
 handler.owner = false
